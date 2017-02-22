@@ -1,0 +1,20 @@
+{
+  "name": "TGA",
+  "homepage": "https://github.com/GustavoNZ/tga",
+  "authors": [
+    "Gustavo <neargamings@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
